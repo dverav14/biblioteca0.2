@@ -17,7 +17,7 @@ body {
 header {
   background: linear-gradient(90deg, #020617, #0f172a, #020617);
   border-bottom: 1px solid #1f2933;
-  box-shadow: 0 0 15px rgba(185,28,28,0.4);
+  box-shadow: 0 0 15px rgba(229, 251, 196, 0.4);
 }
 
 .nav-container {
